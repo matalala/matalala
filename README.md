@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h3 align="center">Full Stack Developer de Argentina</h3>
 <br/>
 <p align="center>
-                              - Puedes ver mis proyectos aquí: ("link de mi futuro Portafolio")
+                             <p> - Puedes ver mis proyectos aquí: ("link de mi futuro Portafolio")</p>
       <br/>
-                               📫 Dónde encontrarme:  <a  href="mailto:victor.cavallo.profecional@gmail.com">victor.cavallo.profecional@gmail.com</a>
+                              -📫 Dónde encontrarme:  <a  href="mailto:victor.cavallo.profecional@gmail.com">victor.cavallo.profecional@gmail.com</a>
 <br/>
     - 📄 Conoce más a cerca de mis experiencias: <a href="https://www.linkedin.com/in/victor-cavallo-403326120/">linkedin</a>
 </p>
