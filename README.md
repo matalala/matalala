@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hola! Yo soy Victor Hernan cavallo</h1>
 <h3 align="center">Full Stack Developer de Argentina</h3>
 <br/>
+
+        
+                         🎓 Actualmente estoy estudiando lo siguiente: **.Net, Java Spring Boot**
+
+                         💻 Puedes ver mis proyectos aquí: "link de mi futuro Portafolio"
+
 <p align="center>
-          <p>-📫 Dónde encontrarme:</p>  <a  href="mailto:victor.cavallo.profecional@gmail.com">victor.cavallo.profecional@gmail.com</a>
-<br/>
-    - 📄 Conoce más a cerca de mis experiencias: <a href="https://www.linkedin.com/in/victor-cavallo-403326120/">linkedin</a>
+     📄 Conoce más a cerca de mis experiencias: <a href="https://www.linkedin.com/in/victor-cavallo-403326120/">linkedin</a>
 </p>
 
 <br/>
