@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> 
+<h3 align="center">Lenguajes y Herramientas:</h3>
+<p align="center"> 
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   </a> 
