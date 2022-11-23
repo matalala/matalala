@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 - 📄 Conoce más a cerca de mis experiencias: [linkedin](https://www.linkedin.com/in/victor-cavallo-403326120/)
 
+
+
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
