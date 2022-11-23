@@ -2,15 +2,11 @@
 <h3 align="center">Full Stack Developer de Argentina</h3>
 <br/>
 
-        
-                         🎓 Actualmente estoy estudiando lo siguiente: **.Net, Java Spring Boot**
+- 💻 Puedes ver mis proyectos aquí: "link de mi futuro Portafolio"
 
-                         💻 Puedes ver mis proyectos aquí: "link de mi futuro Portafolio"
-📄 Conoce más a cerca de mis experiencias:
-<p align="center>
-      <a href="https://www.linkedin.com/in/victor-cavallo-403326120/">linkedin</a>
-</p>
+- 📫 Dónde encontrarme: **attercoppe@protonmail.com**
 
+- 📂 Conoce más a cerca de mis experiencias: [linkedin](https://www.linkedin.com/in/victor-cavallo-403326120/)
 <br/>
 <br/>
 <h3 align="center">Lenguajes y Herramientas:</h3>
