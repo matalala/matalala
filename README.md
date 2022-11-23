@@ -1,17 +1,3 @@
-<!--
-**matalala/matalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hola! Yo soy Victor Hernan cavallo</h1>
 <h3 align="center">Full Stack Developer de Argentina</h3>
 <br/>
@@ -20,9 +6,9 @@ Here are some ideas to get you started:
                          🎓 Actualmente estoy estudiando lo siguiente: **.Net, Java Spring Boot**
 
                          💻 Puedes ver mis proyectos aquí: "link de mi futuro Portafolio"
-
+📄 Conoce más a cerca de mis experiencias:
 <p align="center>
-     📄 Conoce más a cerca de mis experiencias: <a href="https://www.linkedin.com/in/victor-cavallo-403326120/">linkedin</a>
+      <a href="https://www.linkedin.com/in/victor-cavallo-403326120/">linkedin</a>
 </p>
 
 <br/>
