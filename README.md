@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h3 align="center">Full Stack Developer de Argentina</h3>
 <br/>
 <p align="center>
-                             <p> "- Puedes ver mis proyectos aquí: link de mi futuro Portafolio"</p>
-      <br/>
                               -📫 Dónde encontrarme:  <a  href="mailto:victor.cavallo.profecional@gmail.com">victor.cavallo.profecional@gmail.com</a>
 <br/>
     - 📄 Conoce más a cerca de mis experiencias: <a href="https://www.linkedin.com/in/victor-cavallo-403326120/">linkedin</a>
@@ -26,6 +24,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <h3 align="center">Lenguajes y Herramientas:</h3>
+                  <br/>
+<br/>
 <p align="center"> 
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
