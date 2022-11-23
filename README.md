@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
                                - 📫 Dónde encontrarme: **victor.cavallo.profecional@gmail.com**
 
-          - 📄 Conoce más a cerca de mis experiencias: [linkedin](https://www.linkedin.com/in/victor-cavallo-403326120/)
+    - 📄 Conoce más a cerca de mis experiencias: [linkedin](https://www.linkedin.com/in/victor-cavallo-403326120/)
 
 
 <br/>
