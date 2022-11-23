@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">Full Stack Developer de Argentina</h3>
 <br/>
 <p align="center>
-                              -📫 Dónde encontrarme:  <a  href="mailto:victor.cavallo.profecional@gmail.com">victor.cavallo.profecional@gmail.com</a>
+          <p>-📫 Dónde encontrarme:</p>  <a  href="mailto:victor.cavallo.profecional@gmail.com">victor.cavallo.profecional@gmail.com</a>
 <br/>
     - 📄 Conoce más a cerca de mis experiencias: <a href="https://www.linkedin.com/in/victor-cavallo-403326120/">linkedin</a>
 </p>
