@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <p align="center>
                               - Puedes ver mis proyectos aquí: ("link de mi futuro Portafolio")
 
-                               - 📫 Dónde encontrarme: **victor.cavallo.profecional@gmail.com**
+                               - 📫 Dónde encontrarme: <a href="malito:victor.cavallo.profecional@gmail.com">victor.cavallo.profecional@gmail.com</a>
 
-    - 📄 Conoce más a cerca de mis experiencias: [linkedin](https://www.linkedin.com/in/victor-cavallo-403326120/)
+    - 📄 Conoce más a cerca de mis experiencias: <a href="https://www.linkedin.com/in/victor-cavallo-403326120/">linkedin</a>
 </p>
 
 <br/>
